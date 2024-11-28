@@ -1,0 +1,14 @@
+F-no	  Available Tickets Count
+
+001		110
+002		90
+003		Fully reserved
+004		29
+005		Fully reserved
+006		44
+007		18
+008		200
+009		39
+010		Fully reserved
+011		100
+012		100

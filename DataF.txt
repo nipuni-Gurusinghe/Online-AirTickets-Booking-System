@@ -1,0 +1,14 @@
+F-no	Class		From		To		Departure Date	Departure Time	Arrival Date	Arrival Time
+
+001	Economy		Los Angelis	Dubai		2023/12/05	9:00AM		2023/12/06	12:55AM
+002	First		Tokyo		Toronto		2023/12/01	9:40AM		2023/12/01	10:00PM
+003	Business	Dubai		Colombo		2023/12/29	5:30PM		2023/12/29	9:55PM
+004	Business	Changi		Colombo		2023/12/18	4:00AM		2023/12/18	8:OOAM
+005	Business	New York	Sydney		2023/12/15	2:30PM		2023/12/16	12:30PM
+006	Economy		London		Istanbul	2023/12/25	1:00AM		2023/12/25	4:40AM
+007	First		Osaka		Dubai		2023/12/28	7:00AM		2023/12/28	6:15PM
+008	First		Shiphol		Colombo		2024/01/03	6:30PM		2024/01/04	6:55AM
+009	Economy		Frankfurt	Los Angelis	2024/01/05	4:00PM		2024/01/06	3:40AM
+010	Economy		Istanbul	Colombo		2024/01/20	3:30PM		2024/01/20	11:45PM
+011	Economy		Toronto		Sydney		2023/12/20	11:30AM		2023/12/21	7:30AM
+012	Business	Munich		Changi		2023/12/06	7:40AM		2023/12/06	7:40PM		

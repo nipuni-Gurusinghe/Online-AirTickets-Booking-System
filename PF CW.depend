@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1704710610 source:c:\users\kushmi\documents\1projects\pf cw\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
